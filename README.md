@@ -1,18 +1,18 @@
 # elevate_labs_internship_task_2
 This is a simple console-based Student Record Management System implemented in Java. The system allows users to perform basic CRUD (Create, Read, Update, Delete) operations on student records.
 
-**Features**
+**Features :**
 The system provides the following functionalities:
 
-Add Student Details: Add a new student record to the system by providing their ID, name, GPA, department, and section.
+**Add Student Details:** Add a new student record to the system by providing their ID, name, GPA, department, and section.
 
-View Student Details: Display a list of all student records currently stored in the system.
+**View Student Details:** Display a list of all student records currently stored in the system.
 
-Update Student Details: Modify the details of an existing student record by searching for their unique ID.
+**Update Student Details:** Modify the details of an existing student record by searching for their unique ID.
 
-Delete Student Details: Remove a student record from the system by searching for their unique ID.
+**Delete Student Details:** Remove a student record from the system by searching for their unique ID.
 
-Exit: Terminate the program.
+**Exit:** Terminate the program.
 
 **How to Run**
 Compile the Java files StudentRecordManagementSystem.java and Student.java.
