@@ -14,14 +14,14 @@ The system provides the following functionalities:
 
 **Exit:** Terminate the program.
 
-**How to Run**
+**How to Run :**
 Compile the Java files StudentRecordManagementSystem.java and Student.java.
 
 Run the StudentRecordManagementSystem class.
 
 Follow the on-screen menu to interact with the system.
 
-**Files**
+**Files :**
 StudentRecordManagementSystem.java: This is the main class that contains the program's logic, including the menu and methods for adding, viewing, updating, and deleting student records.
 
 Student.java: This class defines the Student object with attributes such as ID, name, GPA, department, and section. It also includes methods to get and set these attributes, as well as an overridden toString() method for printing student details.
